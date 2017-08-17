@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require_relative '../lib/coming_soon'
-
-NowPlaying::CLI.new.call
